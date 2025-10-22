@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Podcast Automático</title>
+    <link>https://github.com/ArielArz/mi-podcast-feed</link>
+    <atom:link href="https://raw.githubusercontent.com/ArielArz/mi-podcast-feed/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>es</language>
+    <copyright>© 2025 Ariel Arzamendia</copyright>
+    <description><![CDATA[Podcast generado automáticamente con n8n y publicado en iVoox]]></description>
+    <itunes:summary><![CDATA[Podcast generado automáticamente con n8n y publicado en iVoox]]></itunes:summary>
+    <itunes:author>Ariel Arzamendia</itunes:author>
+    <itunes:owner>
+      <itunes:name>Ariel Arzamendia</itunes:name>
+      <itunes:email>arielarzamendia@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://raw.githubusercontent.com/ArielArz/mi-podcast-feed/main/artwork.png"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Fri, 17 Oct 2025 13:01:54 GMT</lastBuildDate>
+    <generator>n8n automation</generator>
+    <item>
+      <title>Episodio sin título</title>
+      <description><![CDATA[Descripción del episodio generada automáticamente]]></description>
+      <link>https://github.com/ArielArz/mi-podcast-feed</link>
+      <enclosure url="https://arielarz.github.io/mi-podcast-feed/audio/episodio-sin-titulo-1760706112734.mp3" length="261269" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://arielarz.github.io/mi-podcast-feed/audio/episodio-sin-titulo-1760706112734.mp3</guid>
+      <pubDate>Fri, 17 Oct 2025 13:01:52 GMT</pubDate>
+      <itunes:duration>00:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Ariel Arzamendia</itunes:author>
+    </item>
+  </channel>
+</rss>

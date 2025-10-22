@@ -1,0 +1,2 @@
+*.xml text eol=lf linguist-language=XML
+feed.xml text eol=lf linguist-language=XML
